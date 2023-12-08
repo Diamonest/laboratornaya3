@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content for file in feature_merge_conflict1
+=======
+Different content for file in feature_merge_conflict2
+>>>>>>> feature_merge_conflict2
