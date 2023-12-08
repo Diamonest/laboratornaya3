@@ -1,0 +1,1 @@
+Different content for file in feature_merge_conflict2
